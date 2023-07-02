@@ -1,0 +1,13 @@
+.place__paragraph {
+  margin: 0;
+  width: 100%;
+  color: #fff;
+  font-size: 18px;
+  font-family: Inter;
+  line-height: 163%;
+  margin-bottom: 28px;
+}
+
+.place__paragraph:nth-last-of-type(odd){
+   margin-bottom: 0;
+}
